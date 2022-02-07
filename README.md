@@ -3,4 +3,4 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ItoSeiy&count_private=true&show_icons=true&show_icons=true&theme=dark" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ItoSeiy&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ItoSeiy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
