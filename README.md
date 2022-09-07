@@ -7,3 +7,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ItoSeiy&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ItoSeiy&theme=monokai)
+
